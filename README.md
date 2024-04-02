@@ -41,7 +41,7 @@ latest market data.  <br/>Incorporates many different features like user authent
 <h1></h1>
 
 **[Nexus Cars](https://nexus-cars.vercel.app/): Dealership website**
-<br/>Created with React.
+<br/>Created with React and Bootstrap.
 <h1></h1>
 
 **[First Portfolio](https://ryan-dev.vercel.app/): My first portfolio**
