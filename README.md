@@ -18,7 +18,7 @@ latest market data.  <br/>Incorporates many different features like user authent
 
 **[Nighthawk Fitness](https://fitness-dev-2.web.app/): Full-stack fitness app**
 <br/>My senior inquiry project from Augustana College.
-<br/>Created with React and Firebase .
+<br/>Created with React and Firebase.
 <h1></h1>
 
 **[Flavor Website](https://mern-flavor-site.onrender.com/): 'Flavors' application**
@@ -46,18 +46,18 @@ latest market data.  <br/>Incorporates many different features like user authent
 
 **[First Portfolio](https://ryan-dev.vercel.app/): My first portfolio**
 <br/>First portfolio website showcasing some of my research and applications.
-<br/>Created with React and CSS
+<br/>Created with React and CSS.
 <h1></h1>
 
-**[Python Script](https://github.com/ryan2625/SQL-injection-finder): SQL Injection finder**
-<br/>This python script searches your folders and will find all instances of SQL injections or
+**[Python Script](https://github.com/ryan2625/SQL-injection-finder): SQL Call Finder**
+<br/>This python script searches your folders and will find all instances of SQL Calls or
 <br/>ASP.NET Sql data controllers.
 <br/> Created with Python.
 <h1></h1>
 
 **[Livewell Emails](https://html-email-development.vercel.app/): HTML Emails**
 <br/>Developed and tested on different email clients with Litmus and Email on Acid. Used concepts such as nested tables and inlining styles.
-<br/> Created with HTML and CSS
+<br/> Created with HTML and CSS.
 
 <h1>APIs (coming soon)</h1>
 
