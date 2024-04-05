@@ -8,7 +8,7 @@
 <br/> Cryptocurrency app that interacts with the CoinGecko API to display the 
 latest market data.  <br/>Incorporates many different features like user authentication with Express and Json Web Tokens, unit tests with Jest, 3D models, and more.
 
- <br/>Created with React, React Three Fiber, Framer Motion, SASS, Node/Express, Mongoose/MongoDB, REST APIs, Dotenv, and Jest.
+ <br/>Created with TypeScript, React, React Three Fiber, Framer Motion, SASS, Node/Express, Mongoose/MongoDB, REST APIs, Dotenv, and Jest.
 <h1></h1>
 
 **[Ecommerce Website](https://simply-ecom.vercel.app/): Functional ecommerce app**
