@@ -49,6 +49,12 @@ latest market data.  <br/>Incorporates many different features like user authent
 <br/>Created with React and CSS
 <h1></h1>
 
+**[Python Script](https://github.com/ryan2625/SQL-injection-finder): SQL Injection finder**
+<br/>This python script searches your folders and will find all instances of SQL injections or
+<br/>ASP.NET Sql data controllers.
+<br/> Created with Python.
+<h1></h1>
+
 **[Livewell Emails](https://html-email-development.vercel.app/): HTML Emails**
 <br/>Developed and tested on different email clients with Litmus and Email on Acid. Used concepts such as nested tables and inlining styles.
 <br/> Created with HTML and CSS
