@@ -59,5 +59,9 @@ latest market data.  <br/>Incorporates many different features like user authent
 <br/>Developed and tested on different email clients with Litmus and Email on Acid. Used concepts such as nested tables and inlining styles.
 <br/> Created with HTML and CSS.
 
+**[Batchfile script](https://github.com/ryan2625/Folder-Relocator): Folder relocator**
+<br/>A custom batch script I developed to move folders around and grant permissions to certain users.
+<br/> Created with Batchfile.
+
 <h1>APIs (coming soon)</h1>
 
